@@ -1,0 +1,7 @@
+C:\Users\adamt\source\repos\Refactoring Lab4 test\Refactoring Lab4 test\bin\Debug\Refactoring Lab4 test.exe.config
+C:\Users\adamt\source\repos\Refactoring Lab4 test\Refactoring Lab4 test\bin\Debug\Refactoring Lab4 test.exe
+C:\Users\adamt\source\repos\Refactoring Lab4 test\Refactoring Lab4 test\bin\Debug\Refactoring Lab4 test.pdb
+C:\Users\adamt\source\repos\Refactoring Lab4 test\Refactoring Lab4 test\obj\Debug\Refactoring Lab4 test.csprojResolveAssemblyReference.cache
+C:\Users\adamt\source\repos\Refactoring Lab4 test\Refactoring Lab4 test\obj\Debug\Refactoring Lab4 test.csproj.CoreCompileInputs.cache
+C:\Users\adamt\source\repos\Refactoring Lab4 test\Refactoring Lab4 test\obj\Debug\Refactoring Lab4 test.exe
+C:\Users\adamt\source\repos\Refactoring Lab4 test\Refactoring Lab4 test\obj\Debug\Refactoring Lab4 test.pdb
